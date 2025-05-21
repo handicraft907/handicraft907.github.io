@@ -63,7 +63,7 @@ Google의 광고 정책 및 데이터 사용 정책은 다음 링크에서 확�
 
 - **운영자명**: handicraft  
 - **이메일**: sugongeop907@naver.com  
-- **앱 주소**: [https://allnosun.com](https://allnosun.com)
+- **앱 주소**: [https://allnosun.com](https://play.google.com/store/apps/details?id=com.handicraft.allnosun)
 
 ## 9. 변경 사항 고지
 
