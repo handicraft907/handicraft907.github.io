@@ -1,3 +1,150 @@
+# Privacy Policy
+
+**[Effective Date: July 8, 2025]**
+
+-----
+
+## Article 1. Purpose of Processing Personal Information
+
+handicraft (hereinafter referred to as "Company") processes personal information for the following purposes in providing mobile application services (hereinafter referred to as "Service"), and will not use it for purposes other than the stated service use. In the event of a change in purpose, the Company will take necessary measures such as obtaining separate consent in accordance with Article 18 of the "Personal Information Protection Act."
+
+1.  **Service Provision and Feature Implementation:** User identification and authentication, service usability improvement, **location-based photo capture and saving, address display, in-app payment and subscription management** for core service features.
+2.  **Advertising and Marketing:** Display and optimization of in-service advertisements (e.g., **rewarded ads, interstitial ads, banner ads**), provision of new service and event information, **delivery of personalized ads and analysis of ad performance.**
+3.  **Service Analysis and Improvement:** Analysis of service usage and statistics, user behavior analysis for service performance improvement, new feature development, and user experience optimization.
+4.  **Customer Management and Complaint Handling:** Customer communication and complaint resolution, including inquiries, complaints, and announcements related to service use.
+
+-----
+
+## Article 2. Personal Information Processing and Retention Period
+
+1.  The Company processes and retains personal information within the period of consent received from the data subject or within the personal information retention and use period according to laws and regulations.
+
+2.  Specific personal information processing and retention periods are as follows:
+
+      * **Service Provision:** Until the completion of service provision and termination of service use.
+      * **Complaint Handling:** Until the completion of complaint resolution.
+      * **Advertising and Marketing Purposes:** Until the termination of service use or according to the policies of the respective advertising platform.
+      * **Service Analysis and Improvement:** Related statistical data is retained in accordance with laws and service policies.
+
+    However, in cases falling under the following reasons, information will be stored until the end of the specified period:
+
+      * **Communication Secrets Protection Act:**
+          * Service usage-related information (access logs, access IP information): 3 months
+      * **Act on Consumer Protection in Electronic Commerce, etc.:**
+          * Records on contracts or withdrawal of offers: 5 years
+          * Records on payment and supply of goods, etc.: 5 years
+          * Records on consumer complaints or dispute resolution: 3 years
+
+-----
+
+## Article 3. Provision of Personal Information to Third Parties
+
+1.  The Company processes users' personal information only within the scope specified in Article 1 (Purpose of Processing Personal Information), and provides personal information to third parties only with the data subject's consent, special provisions of law, or other cases falling under Article 17 and Article 18 of the "Personal Information Protection Act."
+2.  **The Company may provide personal information to third parties as follows for smooth service provision, feature implementation, service analysis, and advertising monetization.**
+
+| Recipient                                            | Purpose of Provision                                          | Personal Information Items Provided                                                                                                                                                                                                                           | Retention and Use Period                                  |
+| :--------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------- |
+| **Advertising Platform Providers** (e.g., AppLovin, Unity Ads, Meta Audience Network, etc.) | **Ad display and monetization within the Service, ad impression optimization, ad performance analysis, personalized ad delivery** | **Advertising identifiers (ADID/IDFA), device information (device model, OS version, language settings), IP address, app version, service usage records (ad impression/click records), location information (precise or approximate location data)** | Until service termination or according to platform policies |
+| **Analytics Service Providers** (e.g., Google Analytics, Firebase) | **Analysis of service usage and statistics, user behavior analysis for service improvement and optimization** | **Service usage records, access logs, access IP information, device information (device model, OS version, carrier information, advertising identifiers), app version** | According to service provider policies                    |
+| **Subscription Management Service Providers** (e.g., RevenueCat) | **In-app subscription purchase and management, subscription status synchronization, payment verification** | **Purchase information (subscription product, purchase date/time, payment identifier), user unique identifiers, some device information** | According to service provider policies                    |
+| **Payment Service Providers** (e.g., Google Play, Apple App Store) | **In-app payment processing and related dispute resolution** | **Purchase information, payment identifier** | According to relevant laws                                |
+
+-----
+
+## Article 4. Rights and Obligations of Data Subjects and Legal Representatives, and How to Exercise Them
+
+Data subjects may at any time exercise the following rights related to personal information protection against the Company:
+
+1.  **Request for access to personal information:** The right to confirm the content of personal information processed by the Company.
+2.  **Request for correction of errors, etc.:** The right to request correction or deletion if their personal information is inaccurate.
+3.  **Request for deletion:** The right to request deletion of personal information in accordance with laws and regulations.
+4.  **Request for suspension of processing:** The right to request temporary suspension of personal information processing in accordance with laws and regulations.
+
+These rights can be exercised through written requests, email, or fax to the personal information protection officer specified in Article 9, and the Company will take action without delay.
+
+-----
+
+## Article 5. Personal Information Items Processed
+
+1.  The following personal information items may be automatically generated and collected during the service usage process:
+      * **Service Usage Records:** App launch time, feature usage frequency, ad impression/click records, in-app navigation paths, event records, etc.
+      * **Access Logs:** Service access time, access paths, etc.
+      * **Access IP Information:** User device's IP address.
+      * **Device Information:** Device model, OS version, carrier information, **advertising identifiers (ADID/IDFA)**, device unique identifiers (IDFV, etc.).
+      * **Location Information:** During app service use, **precise location information (latitude, longitude, altitude)** and **address information (road name address, lot number address)**, or approximate location information based on network.
+      * **Purchase Information:** In-app payment and subscription details (product name, purchase date/time, payment identifier, subscription status, etc.).
+
+-----
+
+## Article 6. Destruction of Personal Information
+
+1.  The Company promptly destroys personal information when the retention period consented to by the user has expired or the purpose of processing has been achieved and the personal information is no longer needed.
+2.  The procedure and method for personal information destruction are as follows:
+      * **Destruction Procedure:** Information entered by users is transferred to a separate DB (or separate documents for paper records) after the purpose is achieved, stored for a certain period according to internal policies and other relevant laws, or destroyed immediately. Personal information transferred to a DB will not be used for any purpose other than those permitted by law.
+      * **Destruction Period:** User personal information is destroyed within 5 days from the end of the retention period if it has expired, or within 5 days from the date it is deemed unnecessary when the purpose of personal information processing has been achieved, the service is abolished, or the business ends.
+
+-----
+
+## Article 7. Measures for Ensuring the Security of Personal Information
+
+handicraft implements technical/administrative and physical measures necessary for ensuring security as follows, in accordance with Article 29 of the Personal Information Protection Act.
+
+1.  **Technical Countermeasures against Hacking, etc.:** The Company installs security programs and conducts regular updates and inspections to prevent personal information leakage and damage from hacking or computer viruses. Systems are installed in areas where external access is controlled, and technical/physical monitoring and blocking are in place.
+2.  **Encryption of Personal Information:** Users' personal information and passwords are encrypted, stored, and managed so that only the individual can know them. Important data uses separate security features such as file and transmission data encryption or file lock functions.
+3.  **Storage of Access Records and Prevention of Forgery/Alteration:** Access records to the personal information processing system are stored and managed for a minimum of 6 months, and security features are used to prevent forgery, alteration, theft, or loss of access records.
+4.  **Restriction of Access to Personal Information:** The Company takes necessary measures to control access to personal information by granting, changing, and revoking access rights to the database system that processes personal information. Unauthorized external access is controlled using an intrusion prevention system.
+
+-----
+
+## Article 8. Matters Concerning the Installation, Operation, and Refusal of Automatic Personal Information Collection Devices
+
+1.  The Company uses **advertising platforms, analytics tools, and subscription management tools** to provide appropriate and more useful services to users.
+2.  **Advertising platforms (e.g., AppLovin) automatically collect advertising identifiers, device information, IP addresses, and service usage records to provide personalized advertisements and measure ad performance.**
+3.  **Analytics tools (e.g., Google Analytics, Firebase) automatically collect service usage records and device information generated when users use the app service, which is utilized for service improvement.**
+4.  **Subscription management tools (e.g., RevenueCat) automatically collect and process payment information for in-app subscription product purchases, management, and subscription status synchronization.**
+5.  **Users can refuse the collection and use of advertising identifiers through mobile device settings (e.g., Android's 'Reset advertising ID or Opt out of Ads Personalization', iOS's 'Limit Ad Tracking').**
+
+-----
+
+## Article 9. Personal Information Protection Officer
+
+1.  The Company is responsible for overall personal information processing and designates the following personal information protection officer for handling user complaints and damage relief related to personal information processing.
+      * **Personal Information Protection Officer**
+          * **Name:** handicraft
+          * **Contact:** 010-9952-2531
+          * **Email:** sugongeop907@naver.com
+2.  Data subjects can inquire about all matters related to personal information protection, complaints, and damage relief arising from their use of the Company's services to the personal information protection officer and relevant department. The Company will respond and process user inquiries without delay.
+
+-----
+
+## Article 10. Methods of Redress for Rights Infringement
+
+If users need damage relief or consultation regarding personal information infringement, they can contact the following organizations:
+
+  * Personal Information Infringement Report Center (operated by Korea Internet & Security Agency)
+      * [www.privacy.kisa.or.kr](https://www.google.com/search?q=http://www.privacy.kisa.or.kr)
+      * (Without area code) 118
+  * Personal Information Dispute Mediation Committee
+      * [www.kopico.go.kr](http://www.kopico.go.kr)
+      * (Without area code) 1833-6972
+  * Supreme Prosecutors' Office
+      * [www.spo.go.kr/site/spo/main.do](http://www.spo.go.kr/site/spo/main.do)
+      * (Without area code) 1301
+  * National Police Agency
+      * [www.ecrm.police.go.kr/minwon/main](https://www.google.com/search?q=http://www.ecrm.police.go.kr/minwon/main)
+      * (Without area code) 182
+
+-----
+
+## Article 11. Changes and Notification of Personal Information Processing Policy
+
+1.  In the event of additions, deletions, or modifications to the content of this Personal Information Processing Policy, prior notice will be given at least 7 days before the revision through 'Announcements'. However, if there are significant changes to user rights, such as changes in collected personal information items, purpose of use, or provision to third parties, notice will be given at least 30 days in advance, and user consent may be re-obtained if necessary.
+2.  This Personal Information Processing Policy is effective from **July 8, 2025**.
+
+-----
+
+-----
+
 # 개인정보 보호정책
 
 **[발효일: 2025년 7월 8일]**
@@ -140,5 +287,3 @@ handicraft는 「개인정보보호법」 제29조에 따라 다음과 같이 �
 
 1.  본 개인정보처리방침의 내용 추가, 삭제 및 수정이 있을 경우 개정 최소 7일 전에 ‘공지사항’을 통해 사전 공지를 하겠습니다. 다만, 수집하는 개인정보 항목의 변경, 이용 목적의 변경, 제3자 제공 변경 등과 같이 이용자 권리의 중대한 변경이 발생한 경우에는 최소 30일 전에 고지하며, 필요 시 이용자 동의를 다시 받을 수도 있습니다.
 2.  이 개인정보 처리방침은 **2025년 7월 8일**부터 적용됩니다.
-
------
